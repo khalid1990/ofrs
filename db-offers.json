@@ -1,0 +1,43 @@
+{
+	"offers": [{
+			"id": "1",
+			"title": "Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitametLorem impsum dolor sitamet",
+			"fromDate": "12/12/2017",
+			"toDate": "15/12/2017",
+			"imageUrl": "http://freefoodphotos.com/imagelibrary/snacks/slides/australia_fairy_bread.jpg",
+			"description": "Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet"
+		},
+		{
+			"id": "2",
+			"title": "Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitametLorem impsum dolor sitamet",
+			"fromDate": "12/12/2017",
+			"toDate": "15/12/2017",
+			"imageUrl": "http://freefoodphotos.com/imagelibrary/snacks/slides/cheese_sandwich.jpg",
+			"description": "Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet"
+		},
+		{
+			"id": "3",
+			"title": "Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitametLorem impsum dolor sitamet",
+			"fromDate": "12/12/2017",
+			"toDate": "15/12/2017",
+			"imageUrl": "http://freefoodphotos.com/imagelibrary/snacks/slides/filling_tacco.jpg",
+			"description": "Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet"
+		},
+		{
+			"id": "4",
+			"title": "Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitametLorem impsum dolor sitamet",
+			"fromDate": "12/12/2017",
+			"toDate": "15/12/2017",
+			"imageUrl": "http://freefoodphotos.com/imagelibrary/snacks/slides/cheese_sandwich.jpg",
+			"description": "Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet"
+		},
+		{
+			"id": "14",
+			"title": "Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitametLorem impsum dolor sitamet",
+			"fromDate": "12/12/2017",
+			"toDate": "15/12/2017",
+			"imageUrl": "http://freefoodphotos.com/imagelibrary/snacks/slides/cheese_sandwich.jpg",
+			"description": "Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet Lorem impsum dolor sitamet"
+		}
+	]
+}
